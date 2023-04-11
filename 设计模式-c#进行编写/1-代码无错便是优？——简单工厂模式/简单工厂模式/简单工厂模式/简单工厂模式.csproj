@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="First\Level1.cs" />
+    <Compile Remove="First\Level2.cs" />
+    <Compile Remove="Second\Level3.cs" />
+    <Compile Remove="Second\Operation.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="First\Level1.cs" />
+    <None Include="First\Level2.cs" />
+    <None Include="Second\Level3.cs" />
+    <None Include="Second\Operation.cs" />
+  </ItemGroup>
+
+</Project>

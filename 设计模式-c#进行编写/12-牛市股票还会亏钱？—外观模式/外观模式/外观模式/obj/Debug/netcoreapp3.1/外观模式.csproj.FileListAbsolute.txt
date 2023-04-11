@@ -1,0 +1,14 @@
+C:\计算机相关书籍\设计模式-c#进行编写\12-牛市股票还会亏钱？—外观模式\外观模式\外观模式\bin\Debug\netcoreapp3.1\外观模式.exe
+C:\计算机相关书籍\设计模式-c#进行编写\12-牛市股票还会亏钱？—外观模式\外观模式\外观模式\bin\Debug\netcoreapp3.1\外观模式.deps.json
+C:\计算机相关书籍\设计模式-c#进行编写\12-牛市股票还会亏钱？—外观模式\外观模式\外观模式\bin\Debug\netcoreapp3.1\外观模式.runtimeconfig.json
+C:\计算机相关书籍\设计模式-c#进行编写\12-牛市股票还会亏钱？—外观模式\外观模式\外观模式\bin\Debug\netcoreapp3.1\外观模式.runtimeconfig.dev.json
+C:\计算机相关书籍\设计模式-c#进行编写\12-牛市股票还会亏钱？—外观模式\外观模式\外观模式\bin\Debug\netcoreapp3.1\外观模式.dll
+C:\计算机相关书籍\设计模式-c#进行编写\12-牛市股票还会亏钱？—外观模式\外观模式\外观模式\bin\Debug\netcoreapp3.1\外观模式.pdb
+C:\计算机相关书籍\设计模式-c#进行编写\12-牛市股票还会亏钱？—外观模式\外观模式\外观模式\obj\Debug\netcoreapp3.1\外观模式.csproj.AssemblyReference.cache
+C:\计算机相关书籍\设计模式-c#进行编写\12-牛市股票还会亏钱？—外观模式\外观模式\外观模式\obj\Debug\netcoreapp3.1\外观模式.GeneratedMSBuildEditorConfig.editorconfig
+C:\计算机相关书籍\设计模式-c#进行编写\12-牛市股票还会亏钱？—外观模式\外观模式\外观模式\obj\Debug\netcoreapp3.1\外观模式.AssemblyInfoInputs.cache
+C:\计算机相关书籍\设计模式-c#进行编写\12-牛市股票还会亏钱？—外观模式\外观模式\外观模式\obj\Debug\netcoreapp3.1\外观模式.AssemblyInfo.cs
+C:\计算机相关书籍\设计模式-c#进行编写\12-牛市股票还会亏钱？—外观模式\外观模式\外观模式\obj\Debug\netcoreapp3.1\外观模式.csproj.CoreCompileInputs.cache
+C:\计算机相关书籍\设计模式-c#进行编写\12-牛市股票还会亏钱？—外观模式\外观模式\外观模式\obj\Debug\netcoreapp3.1\外观模式.dll
+C:\计算机相关书籍\设计模式-c#进行编写\12-牛市股票还会亏钱？—外观模式\外观模式\外观模式\obj\Debug\netcoreapp3.1\外观模式.pdb
+C:\计算机相关书籍\设计模式-c#进行编写\12-牛市股票还会亏钱？—外观模式\外观模式\外观模式\obj\Debug\netcoreapp3.1\外观模式.genruntimeconfig.cache

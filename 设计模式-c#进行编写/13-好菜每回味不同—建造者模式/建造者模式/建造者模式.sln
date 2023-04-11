@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "建造者模式", "建造者模式\建造者模式.csproj", "{30D8FE6F-E009-4601-A349-8A0E53C621D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30D8FE6F-E009-4601-A349-8A0E53C621D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D8FE6F-E009-4601-A349-8A0E53C621D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D8FE6F-E009-4601-A349-8A0E53C621D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D8FE6F-E009-4601-A349-8A0E53C621D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4EC2DC9-46E9-4277-A3DD-60473CF26BF5}
+	EndGlobalSection
+EndGlobal
